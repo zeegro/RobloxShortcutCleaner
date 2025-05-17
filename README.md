@@ -10,7 +10,7 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="26"/> <a href="README_en-us.md">English</a></td>
+    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="26"/> <a href="README_en-us.md" alt="Soon">English</a></td>
     <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="26"/> <strong>Русский</strong></td>
   </tr>
 </table>
